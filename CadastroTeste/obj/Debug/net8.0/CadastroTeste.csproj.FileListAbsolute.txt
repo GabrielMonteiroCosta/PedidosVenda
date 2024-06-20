@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CadastroTeste\bin\Debug\net8.0\CadastroTeste.exe
+C:\Users\User\source\repos\CadastroTeste\bin\Debug\net8.0\CadastroTeste.deps.json
+C:\Users\User\source\repos\CadastroTeste\bin\Debug\net8.0\CadastroTeste.runtimeconfig.json
+C:\Users\User\source\repos\CadastroTeste\bin\Debug\net8.0\CadastroTeste.dll
+C:\Users\User\source\repos\CadastroTeste\bin\Debug\net8.0\CadastroTeste.pdb
+C:\Users\User\source\repos\CadastroTeste\obj\Debug\net8.0\CadastroTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CadastroTeste\obj\Debug\net8.0\CadastroTeste.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CadastroTeste\obj\Debug\net8.0\CadastroTeste.AssemblyInfo.cs
+C:\Users\User\source\repos\CadastroTeste\obj\Debug\net8.0\CadastroTeste.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CadastroTeste\obj\Debug\net8.0\CadastroTeste.dll
+C:\Users\User\source\repos\CadastroTeste\obj\Debug\net8.0\refint\CadastroTeste.dll
+C:\Users\User\source\repos\CadastroTeste\obj\Debug\net8.0\CadastroTeste.pdb
+C:\Users\User\source\repos\CadastroTeste\obj\Debug\net8.0\CadastroTeste.genruntimeconfig.cache
+C:\Users\User\source\repos\CadastroTeste\obj\Debug\net8.0\ref\CadastroTeste.dll
